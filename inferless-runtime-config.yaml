@@ -4,3 +4,5 @@ build:
   python_packages:
     - "accelerate==0.28.0"
     - "transformers==4.39.1"
+    - "hf-transfer==0.1.9"
+    - "huggingface-hub==0.29.1"
